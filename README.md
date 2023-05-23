@@ -8,4 +8,4 @@ print(s.upper())  # HELLO 소문자 -> 대문자
 print(s.lower())   # hello  대문자 -> 소문자
 print(s.replace("l","")) 
 
-a=input()
+a=input
